@@ -12,13 +12,13 @@ main() {
     var idade = int.parse(input);
 
     if( idade >= 50) {
-      print("Melhor idade!");
+    print("Melhor idade!");
     } else if(idade >= 18){
-      print("Adulto");
+    print("Adulto");
     } else if(idade >= 12){
-      print("Adolecente");   
+    print("Adolecente");   
     } else {
-      print("Criança");
+    print("Criança");
     }
     
 }
